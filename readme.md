@@ -1,3 +1,23 @@
+Forma de uso: Execute o código no bash:  dart run biblioteca_virtual.dart 
+Após executar o código vai aparecer as seguintes opções:
+
+
+=== MENU PRINCIPAL ===
+1. Cadastrar novo livro
+2. Remover livro por ID
+3. Remover livro por título
+4. Listar todos os livros
+5. Buscar livros por autor
+6. Buscar livros por gênero
+7. Emprestar livro
+8. Devolver livro
+9. Gerar relatório
+0. Sair
+Escolha uma opção:
+
+
+
+
 Classe Livro
 Representa um livro na biblioteca com seus atributos básicos e funcionalidades.
 
@@ -59,19 +79,3 @@ Funções _*Interativo(): Lidam com entrada do usuário para cada operação
 
 
 
-Forma de uso: Execute o código no bash:  dart run biblioteca_virtual.dart 
-Após executar o código vai aparecer as seguintes opções:
-
-
-=== MENU PRINCIPAL ===
-1. Cadastrar novo livro
-2. Remover livro por ID
-3. Remover livro por título
-4. Listar todos os livros
-5. Buscar livros por autor
-6. Buscar livros por gênero
-7. Emprestar livro
-8. Devolver livro
-9. Gerar relatório
-0. Sair
-Escolha uma opção:
